@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://5y5F4il.github.io/arandu-website/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://arandulabs.uy/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://5y5F4il.github.io/arandu-website/</loc>
+<loc>https://arandulabs.uy/</loc>
 </url>
 <url>
-<loc>https://5y5F4il.github.io/arandu-website/bienvenidos-a-arandu/blog/</loc>
+<loc>https://arandulabs.uy/bienvenidos-a-arandu/blog/</loc>
 </url>
 <url>
-<loc>https://5y5F4il.github.io/arandu-website/bienvenidos-a-arandu/proyectos/</loc>
+<loc>https://arandulabs.uy/bienvenidos-a-arandu/proyectos/</loc>
 </url>
 <url>
-<loc>https://5y5F4il.github.io/arandu-website/bienvenidos-a-arandu/quienes-somos/</loc>
+<loc>https://arandulabs.uy/bienvenidos-a-arandu/quienes-somos/</loc>
 </url>
 </urlset>

@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Arandú Labs",
     "description": "",
-    "home_page_url": "https://5y5F4il.github.io/arandu-website",
-    "feed_url": "https://5y5F4il.github.io/arandu-website/feed.json",
+    "home_page_url": "https://arandulabs.uy",
+    "feed_url": "https://arandulabs.uy/feed.json",
     "user_comment": "",
-    "icon": "https://5y5F4il.github.io/arandu-website/media/website/arandu_logo_color_grande.png",
+    "icon": "https://arandulabs.uy/media/website/arandu_logo_color_grande.png",
     "author": {
         "name": "Arandu"
     },
